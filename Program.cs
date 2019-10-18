@@ -40,3 +40,22 @@ break;
 Console.ReadLine();  
 }  
 }  
+
+//multiplication and division without + or / is implemented using reapeated addition   
+
+var total = 0;
+
+for(int i = 0; i < y; i++)
+{
+    total += x;
+}
+
+//edge cases 
+
+
+
+
+
+
+
+
